@@ -30,7 +30,7 @@ Slash is **Automated Osint Tool** that allows you to **OSINT** people by their u
 ## Installation
 
 ```
-git clone https://github.com/redc86/SLASH-OSINT
+git clone https://github.com/deadprogramers/SLASH_OSINT
 cd slash
 pip install -r requirements.txt
 python slash.py help
