@@ -1,4 +1,4 @@
-# [Slash](https://github.com/deadprogramers/SLASH-OSINT)
+# [Slash](https://github.com/deadprogramers/SLASH_OSINT)
 
 Slash is **Automated Osint Tool** that allows you to **OSINT** people by their username.
 
@@ -31,7 +31,7 @@ Slash is **Automated Osint Tool** that allows you to **OSINT** people by their u
 
 ```
 git clone https://github.com/deadprogramers/SLASH_OSINT
-cd slash
+cd SLASH-OSINT
 pip install -r requirements.txt
 python slash.py help
 ```
