@@ -46,10 +46,10 @@ python slash.py help
 python slash.py deadprogramers
 ```
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/deadprogramers/SLASH-OSINT/main/images/1.png">
+  <img src="https://raw.githubusercontent.com/deadprogramers/SLASH-OSINT/images/1.png">
 </h1>
 <h1 align="center">
-  <img src="https://github.com/deadprogramers/SLASH-OSINT/blob/main/images/2.png?raw=true">
+  <img src="https://github.com/deadprogramers/SLASH-OSINT/images/2.png?raw=true">
 </h1>
 
 ### Credits
