@@ -56,8 +56,8 @@ python slash.py deadprogramers
 Links of social.json : [sherlock-project](https://github.com/sherlock-project/sherlock/)
 
 
-Instagram:- https://instagram.com/deadprogramers
-Server  : https://matrix.to/#/#ae86:matrix.org\
+Instagram:- https://instagram.com/hypercrackers
+Server  : https://t.me/Bunnybinccc
 
 ![](https://visitor-badge.glitch.me/badge?page_id=thesaderror.slash)
 # SLASH_OSINT
